@@ -30,7 +30,7 @@
 6. ரண்டு மாசமா நாங்கள் அங்க கிழமைல ஒருக்கா போறனாங்கள்.
     * கிழமை = week
     * ரண்டு மாசமா - since two months
-        * மா - time related continuity
+        * மா suffix - time related continuity
     * noun + "aha" = adjective
 7. ஒண்டும் நிச்சய-மில்லாத நேரத்தில, இப்டி ஒரு வழக்கம் இருக்கிறது நல்லது தானே?
     * தானே = isn't it = innit
