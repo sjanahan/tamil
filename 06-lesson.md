@@ -46,9 +46,9 @@
     * ~Voice Notes for vocab from conversation~
     * ~Voice Notes for vasanangal above~
 1. Janahan
-    * Voice Notes for red boxes
+    * ~Voice Notes for red boxes~
     * ~Voice Notes for vocab Aug 9~
-    * Voice Notes for vocab from conversation
+    * ~Voice Notes for vocab from conversation~
     * Voice Notes for vasanangal above
     * ~Transcribe notes from lessons for vasanangal above~
     * Vaetrumai Table
