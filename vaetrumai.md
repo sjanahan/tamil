@@ -3,7 +3,7 @@
 No. | Case | What | How to modify noun? | Example | Video |
 ---- |------|-----|------|-----|----
 1 | Normative | The noun "that is doing something" | No Change | Janahan padikkiRaar (Janahan studies) | [Youtube](https://youtu.be/1KqTrLyfaEQ)
-2 | Accusative | Noun is recipient of verb's action | Suffix **ai** | Naan kathav**ai** thiRanthaen (I closed the door) | [Youtube](https://youtu.be/1PJmafm3KZA)
+2 | Accusative | Noun is recipient of verb's action | Suffix **ai** | Naan kathav**ai** thiRanthaen (I opened the door) | [Youtube](https://youtu.be/1PJmafm3KZA)
 3a | Instrumental | noun is the reason for verb’s action | Suffix **aal** | Naan nilaththai  vaccuum**aal** thudaiththaen (I cleaned the floor with the vaccuum) | [Youtube](https://youtu.be/eUK3IVknKOY)
 3b | Social | 2 or more nouns perform same action simultaneously (with) |  suffix {**-oodu**, **-udan**} | Amma**vudan** naan kadaikku poonaen (I went to the store with Amma) | [Youtube](https://youtu.be/gyYvZYsHRKM)
 4 | Dative | Shows relationship between 2 objects - 1 giver and 1 receiver	English: “to” or “for” | suffix **-ku** | Meen kuLambuk**ku** thaNNi vida vaeNum (Water needs to be added to Fish curry) | [Youtube](https://youtu.be/OsyQwV-2Xiw)
