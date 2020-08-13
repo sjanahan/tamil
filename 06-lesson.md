@@ -51,7 +51,7 @@
     * ~Voice Notes for vocab from conversation~
     * Voice Notes for vasanangal above
     * ~Transcribe notes from lessons for vasanangal above~
-    * Vaetrumai Table
+    * ~Vaetrumai Table~
     * New sentences with the rules above (stretch goal)
 
 
