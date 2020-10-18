@@ -57,3 +57,13 @@ How to organize self-service content for English speakers with the goal of speak
     * Tamil Nadu Tamil
 7. Long form - Advanced Reading and Writing
 
+### Action Items
+1. Janahan
+    * Responding to 10/18 vocab voice notes
+    * Sending 5 per day working backward chronologically from spreadsheet
+2. Sabtha
+    * Sending 10/18 vocab voice notes
+    * Correcting written sentences 25-35
+        * Optional - send voice notes for these
+    * Organizing existing content in GDrive to the TLC Table of Contents
+
