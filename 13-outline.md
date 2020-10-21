@@ -51,7 +51,7 @@ How to organize self-service content for English speakers with the goal of speak
     3. Speaking
     4. Listening
 6. Regionalization 
-    * Jaffna Tamil
+    * Northern Tamil
     * Eastern Tamil
     * Malay Tamil
     * Tamil Nadu Tamil
